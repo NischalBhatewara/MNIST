@@ -1,2 +1,2 @@
 # MNIST
-Different models and methods to predict digits from MNIST dataset. 
+Different models and methods to classify digits from MNIST dataset. 
